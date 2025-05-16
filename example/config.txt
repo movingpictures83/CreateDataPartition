@@ -1,0 +1,2 @@
+Prefix plugins/CreateDataPartition/example/
+Plugin CreateDataPartition inputfile parameters.txt outputfile sonar

@@ -1,0 +1,2 @@
+csvfile	sonar.csv
+pct	0.8
